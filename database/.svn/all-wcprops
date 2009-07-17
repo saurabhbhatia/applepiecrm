@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/applepiecrm/!svn/ver/6/database
+END
+insert_customers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/applepiecrm/!svn/ver/6/database/insert_customers.sql
+END
+create_table_cust
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/applepiecrm/!svn/ver/2/database/create_table_cust
+END

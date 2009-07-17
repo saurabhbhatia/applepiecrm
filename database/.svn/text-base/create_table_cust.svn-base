@@ -1,0 +1,1 @@
+create table iccms_customers (cid varchar(10) primary key,c_name varchar(50),email_id varchar(100),mobile varchar(15),address varchar(500),id_proof varchar(50),id_proof_val varchar(25),gender char(1))
